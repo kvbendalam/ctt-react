@@ -1,5 +1,5 @@
 import React from 'react';
-import './Style.css'
+import './Style.css';
 
 
 function Footer() {
@@ -18,13 +18,13 @@ function Footer() {
             <ul className="social-list">
 
               <li>
-                <a href="https://www.instagram.com/crazy_traveller_11/" target="_blank" className="social-link">
+                <a href="https://www.instagram.com/crazy_traveller_11/" target="_blank" rel="noopener noreferrer" className="social-link">
                   <ion-icon name="logo-instagram"></ion-icon>
                 </a>
               </li>
 
               <li>
-                <a href="https://www.youtube.com/@CrazyTraveller_11" target="_blank" className="social-link">
+                <a href="https://www.youtube.com/@CrazyTraveller_11" target="_blank" rel="noopener noreferrer" className="social-link">
                   <ion-icon name="logo-youtube"></ion-icon>
                 </a>
               </li>
