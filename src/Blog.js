@@ -36,7 +36,7 @@ function Blog() {
                       <img src={authorAvatar} width="30" height="30" alt="Jony bristow" />
                     </figure>
                     <div>
-                      <a href="#" className="author-name">
+                      <a href="/" className="author-name">
                         Jony bristow
                       </a>
                       <p className="author-title">Admin</p>
@@ -83,7 +83,7 @@ function Blog() {
                       <img src={authorAvatar} width="30" height="30" alt="Jony bristow" />
                     </figure>
                     <div>
-                      <a href="#" className="author-name">
+                      <a href="/" className="author-name">
                         Jony bristow
                       </a>
                       <p className="author-title">Admin</p>
@@ -130,7 +130,7 @@ function Blog() {
                       <img src={authorAvatar} width="30" height="30" alt="Jony bristow" />
                     </figure>
                     <div>
-                      <a href="#" className="author-name">
+                      <a href="/" className="author-name">
                         Jony bristow
                       </a>
                       <p className="author-title">Admin</p>

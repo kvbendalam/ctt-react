@@ -29,7 +29,7 @@ function Hero() {
             </p>
 
             <div className="btn-group" style={{textAlign: "left"}}>
-              <a href="#" className="btn btn-primary" style={{textDecoration: "none"}}>
+              <a href="/" className="btn btn-primary" style={{textDecoration: "none"}}>
                 Contact Us
               </a>
             </div>

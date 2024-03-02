@@ -18,7 +18,7 @@ function Destination() {
         <ul className="destination-list">
 
           <li className="w-50">
-            <a href="#" className="destination-card">
+            <a href="/" className="destination-card">
 
               <figure className="card-banner">
                 <img src={manali} width="1140" loading="lazy"
@@ -34,7 +34,7 @@ function Destination() {
           </li>
 
           <li className="w-50">
-            <a href="#" className="destination-card">
+            <a href="/" className="destination-card">
 
               <figure className="card-banner">
                 <img src={shimla} width="1140" height="1100" loading="lazy"
@@ -50,7 +50,7 @@ function Destination() {
           </li>
 
           <li>
-            <a href="#" className="destination-card">
+            <a href="/" className="destination-card">
 
               <figure className="card-banner">
                 <img src={delhi} width="1110" height="400px" loading="lazy"
@@ -66,7 +66,7 @@ function Destination() {
           </li>
 
           <li>
-            <a href="#" className="destination-card">
+            <a href="/" className="destination-card">
 
               <figure className="card-banner">
                 <img src={mathura} width="1110" loading="lazy"
@@ -82,7 +82,7 @@ function Destination() {
           </li>
 
           <li>
-            <a href="#" className="destination-card">
+            <a href="/" className="destination-card">
 
               <figure className="card-banner">
                 <img src={vrindavan} width="1110" height="480px" loading="lazy"
