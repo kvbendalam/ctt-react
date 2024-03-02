@@ -12,7 +12,7 @@ function Footer() {
             <a href="/" className="logo">Crazy Tours & Travels</a>
 
             <p className="copyright">
-              &copy; 2024 <a href="#" className="copyright-link">Crazy Tours & Travels</a>. All Rights Reserved
+              &copy; 2024 <a href="/" className="copyright-link">Crazy Tours & Travels</a>. All Rights Reserved
             </p>
 
             <ul className="social-list">
