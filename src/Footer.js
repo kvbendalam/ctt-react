@@ -19,13 +19,19 @@ function Footer() {
 
               <li>
                 <a href="https://www.instagram.com/crazy_traveller_11/" target="_blank" rel="noopener noreferrer" className="social-link">
-                  <ion-icon name="logo-instagram"></ion-icon>
+                  <i class="fa fa-instagram" style={{fontSize:"24px", color:"#dc2743"}}></i>
                 </a>
               </li>
 
               <li>
                 <a href="https://www.youtube.com/@CrazyTraveller_11" target="_blank" rel="noopener noreferrer" className="social-link">
-                  <ion-icon name="logo-youtube"></ion-icon>
+                  <i class="fa fa-youtube-play" style={{fontSize:"24px",color:"red"}}></i>
+                </a>
+              </li>
+
+              <li>
+                <a href="https://www.facebook.com/people/Mahesh-Reddy/pfbid0383emmfWygWZ1NpuPVEi3CByzQTYH69BSKrBj7jb7TtyNUamDEUtdj6EMZC6iijnJl/?ref=xav_ig_profile_web" target="_blank" rel="noopener noreferrer" className="social-link">
+                  <i class="fa fa-facebook-f" style={{fontSize:"24px",color:"#2962ff"}}></i>
                 </a>
               </li>
 

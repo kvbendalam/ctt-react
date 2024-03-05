@@ -22,7 +22,7 @@ function Videos() {
                     videoId={getYouTubeID(videoLink)}
                     className="video-player"
                     opts={{
-                      width: 240,
+                      width: 420,
                       height: 218,
                       playerVars: {
                         autoplay: 0,
