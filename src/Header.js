@@ -25,11 +25,11 @@ function Header() {
               </li>
 
               <li>
-                <a href="/about" className="navbar-link">About Us</a>
+                <a href="#/about" className="navbar-link">About Us</a>
               </li>
 
               <li>
-                <a href="/tours" className="navbar-link">Tours</a>
+                <a href="#/tours" className="navbar-link">Tours</a>
               </li>
 
               {/* <li>
