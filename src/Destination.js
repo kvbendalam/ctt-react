@@ -19,7 +19,7 @@ function Destination() {
 
         <ul className="destination-list">
 
-          <li className="w-50" onClick={() => navigate('/destination/manali')}>
+          <li className="w-50" style={{cursor:"pointer"}} onClick={() => navigate('/destination/manali')}>
             <p className="destination-card" >
 
               <figure className="card-banner">
@@ -35,7 +35,7 @@ function Destination() {
             </p>
           </li>
 
-          <li className="w-50" onClick={() => navigate('/destination/shimla')}>
+          <li className="w-50" style={{cursor:"pointer"}} onClick={() => navigate('/destination/shimla')}>
             <p className="destination-card">
 
               <figure className="card-banner">
@@ -51,7 +51,7 @@ function Destination() {
             </p>
           </li>
 
-          <li onClick={() => navigate('/destination/delhi')}>
+          <li onClick={() => navigate('/destination/delhi')} style={{cursor:"pointer"}}>
             <p className="destination-card">
 
               <figure className="card-banner">
@@ -67,7 +67,7 @@ function Destination() {
             </p>
           </li>
 
-          <li onClick={() => navigate('/destination/mathura')}>
+          <li onClick={() => navigate('/destination/mathura')} style={{cursor:"pointer"}} >
             <p className="destination-card">
 
               <figure className="card-banner">
@@ -83,7 +83,7 @@ function Destination() {
             </p>
           </li>
 
-          <li onClick={() => navigate('/destination/vrindhavan')}>
+          <li onClick={() => navigate('/destination/vrindhavan')} style={{cursor:"pointer"}}>
             <p className="destination-card">
 
               <figure className="card-banner">
