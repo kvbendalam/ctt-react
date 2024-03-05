@@ -24,7 +24,7 @@ function AboutUs() {
                 </p>
                 <p className="about-text">
                   Founded by Mahesh Reddy, a passionate traveler and explorer, Crazy Tours & Travels has been
-                  providing exceptional travel services since 2010. Our mission is to create memorable adventures
+                  providing exceptional travel services since 2020. Our mission is to create memorable adventures
                   that leave a lasting impression and create cherished memories for our clients.
                 </p>
                 <p className="about-text">
