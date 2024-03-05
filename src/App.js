@@ -1,26 +1,22 @@
-import './App.css';
-import Destination from './Destination';
-import Footer from './Footer';
-import Header from './Header';
-import Hero from './Hero'
-import PopularTours from './PopularTours';
-import About from './About';
-import Blog from './Blog'
-import bachelorsPackages, {familyPackages, honeyMoon} from './toursData';
+import React from "react";
+import "./App.css";
+import Home from "./Home";
+import DestinationDetails from "./DestinationDetails";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import Footer from "./Footer";
+import Header from "./Header";
 
 function App() {
   return (
     <div className="App">
-     <Header/>
-     <Hero/>
-     <Destination/>
-     <p className="section-subtitle">Featured Tours</p>
-     <PopularTours tours={bachelorsPackages} type={"Bachelors"}/>
-     <PopularTours tours={familyPackages} type={"Family"}/>
-     <PopularTours tours={honeyMoon} type={"Honey Moon Couple"}/>
-     <About/>
-     <Blog/>
-     <Footer/>
+      <Header/>
+      <BrowserRouter>
+        <Routes>
+          <Route exact path="/" element={<Home />} />
+          <Route path="/destination/:place" element={<DestinationDetails />} />
+        </Routes>
+      </BrowserRouter>
+      <Footer/>
     </div>
   );
 }
