@@ -473,7 +473,9 @@
     border-radius: var(--radius-6);
   }
   
-  .popular-card .card-price { background: var(--viridian-green); }
+  .popular-card .card-price { 
+    background: var(--viridian-green); 
+  }
   
   .popular-card .card-rating {
     background: var(--mikado-yellow);

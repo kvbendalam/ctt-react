@@ -10,8 +10,8 @@ const bachelorsPackages = [
       duration: "P12D",
       durationText: "3D & 2N",
       price: "From 5,999/-",
-      title: "A good traveler has no fixed plans and is not intent on arriving.",
-      location: "Manali",
+      title: "Manali, Himachal Pradesh",
+      // location: "Manali",
       link: "#"
     },
     {
@@ -20,8 +20,8 @@ const bachelorsPackages = [
       duration: "P12D",
       durationText: "5D & 4N",
       price: "From 7,999/-",
-      title: "A good traveler has no fixed plans and is not intent on arriving.",
-      location: "Manali & Shimla",
+      title : "Manali & Shimla",
+      // location: "",
       link: "#"
     },
     {
@@ -30,8 +30,8 @@ const bachelorsPackages = [
       duration: "P12D",
       durationText: "6N & 7D",
       price: "From 8,999/-",
-      title: "A good traveler has no fixed plans and is not intent on arriving.",
-      location: "Delhi, Manali & Shimla",
+      title: "Delhi, Manali & Shimla",
+      // location: "Delhi, Manali & Shimla",
       link: "#"
     },
     {
@@ -40,8 +40,8 @@ const bachelorsPackages = [
       duration: "P12D",
       durationText: "6N & 7D",
       price: "From 10,999/-",
-      title: "A good traveler has no fixed plans and is not intent on arriving.",
-      location: "Agra, Delhi, Manali & Shimla",
+      title : "Agra, Delhi, Manali & Shimla",
+      // location: "Agra, Delhi, Manali & Shimla",
       link: "#"
     }
   ];
@@ -53,29 +53,29 @@ const bachelorsPackages = [
     {
       image: manali,
       height: "440px",
-      title: "A good traveler has no fixed plans and is not intent on arriving.",
-      location: "Manali",
+      title: "Manali",
+      // location: "Manali",
       durationText: "3D & 2N",
       price: "6,999/-"
     },
     {
       image: shimla,
-      title: "A good traveler has no fixed plans and is not intent on arriving.",
-      location: "Manali & Shimla",
+      title: "Manali & Shimla",
+      // location: "Manali & Shimla",
       durationText: "5D & 4N",
       price: "8,999/-"
     },
     {
       image: delhi,
-      title: "A good traveler has no fixed plans and is not intent on arriving.",
-      location: "Delhi, Manali & Shimla",
+      title: "Delhi, Manali & Shimla",
+      // location: "Delhi, Manali & Shimla",
       durationText: "6N & 7D",
       price: "9,999/-"
     },
     {
       image: agra,
-      title: "A good traveler has no fixed plans and is not intent on arriving.",
-      location: "Agra, Delhi, Manali & Shimla",
+      title: "Agra, Delhi, Manali & Shimla",
+      // location: "Agra, Delhi, Manali & Shimla",
       durationText: "6N & 7D",
       price: "11,999/-"
     }
@@ -88,8 +88,8 @@ const bachelorsPackages = [
       imageAlt: "Manali, Himachal Pradesh",
       price: "From 15,999/-",
       durationText: "3D & 2N",
-      title: "A good traveler has no fixed plans and is not intent on arriving.",
-      location: "Manali"
+      title: "Manali",
+      // location: "Manali"
     },
     {
       id: 2,
@@ -97,8 +97,8 @@ const bachelorsPackages = [
       imageAlt: "Manali & Shimla, Himachal Pradesh",
       price: "From 35,999/-",
       durationText: "5D & 4N",
-      title: "A good traveler has no fixed plans and is not intent on arriving.",
-      location: "Manali & Shimla"
+      title: "Manali & Shimla",
+      // location: "Manali & Shimla"
     },
     {
       id: 3,
@@ -106,8 +106,8 @@ const bachelorsPackages = [
       imageAlt: "Delhi, Manali & Shimla, Himachal Pradesh",
       price: "From 38,999/-",
       durationText: "6N & 7D",
-      title: "A good traveler has no fixed plans and is not intent on arriving.",
-      location: "Delhi, Manali & Shimla"
+      title: "Delhi, Manali & Shimla",
+      // location: "Delhi, Manali & Shimla"
     },
     {
       id: 4,
@@ -115,8 +115,8 @@ const bachelorsPackages = [
       imageAlt: "Agra, Delhi, Manali & Shimla, Himachal Pradesh",
       price: "From 45,999/-",
       durationText: "6N & 7D",
-      title: "A good traveler has no fixed plans and is not intent on arriving.",
-      location: "Agra, Delhi, Manali & Shimla"
+      title: "Agra, Delhi, Manali & Shimla",
+      // location: "Agra, Delhi, Manali & Shimla"
     }
   ];
 
