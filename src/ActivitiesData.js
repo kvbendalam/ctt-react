@@ -1,22 +1,51 @@
+import hadimba from './assets/images/Manali/hadimba.jpeg'
+import mallroad from './assets/images/Manali/mallroad.jpeg'
+import oldmanali from './assets/images/Manali/oldmanali.jpeg'
+import vashist from './assets/images/Manali/vashisht.jpeg'
+import solangvalley from './assets/images/Manali/solangvalley.jpeg'
+import paragliding from './assets/images/Manali/paragliding.jpeg'
+import hotsprings from './assets/images/Manali/hotsprings.jpeg'
+import kullu from './assets/images/Manali/kullu.jpeg'
+import beas from './assets/images/Manali/beas.jpeg'
+import parvathy from './assets/images/Manali/parvathy.jpeg'
+import kasol from './assets/images/Manali/kasol.jpeg'
+import mallroadShimla from './assets/images/Shimla/mallroad.jpeg'
+import jakhu from './assets/images/Shimla/jakhu.jpeg'
+import musem from './assets/images/Shimla/musem.jpeg'
+import theridge from './assets/images/Shimla/theridge.jpeg'
+import chandinichowk from './assets/images/delhi/chandinichowk.jpeg'
+import dillihaat from './assets/images/delhi/dillihaat.jpeg'
+import indiagate from './assets/images/delhi/indiagate.jpeg'
+import lotus from './assets/images/delhi/lotus.jpeg'
+import qutub from './assets/images/delhi/qutub.jpeg'
+import redfort from './assets/images/delhi/redfort.jpeg'
+import Dwarkadesh from './assets/images/mathura/DwarkadheeshTemple.jpeg'
+import janma from './assets/images/mathura/janma.jpeg'
+import premmandir from './assets/images/mathura/PremMandir.jpeg'
+import vrinda from './assets/images/mathura/Vrindavan.jpeg'
+import banke from './assets/images/vrindavan/banke.jpeg'
+import iskcon from './assets/images/vrindavan/iskcon.jpeg'
+import seva from './assets/images/vrindavan/seva.jpeg'
+
 export const manaliData  = [
     {
       "day": "Day 1",
       "activities": [
         {
           "name": "Hadimba Temple",
-          "image": "https://example.com/hadimba_temple.jpg"
+          "image": hadimba
         },
         {
           "name": "Vashist Temple",
-          "image": "https://example.com/manu_temple.jpg"
+          "image": vashist
         },
         {
           "name": "Old Manali Market",
-          "image": "https://example.com/old_manali_market.jpg"
+          "image": oldmanali
         },
         {
           "name" : "Mall Road",
-          "image":""
+          "image": mallroad
         }
       ]
     },
@@ -25,11 +54,11 @@ export const manaliData  = [
       "activities":  [
         {
           "name": "Solang Valley",
-          "image": "https://example.com/solang_valley.jpg"
+          "image": solangvalley
         },
         {
           "name": "Snow Activities - Skiing, Paragliding, York Ride",
-          "image": "https://example.com/rohtang_pass.jpg"
+          "image": paragliding
         },
       ]
     },
@@ -38,23 +67,23 @@ export const manaliData  = [
       "activities": [
         {
           "name": "Manikaran temple - HotSprings",
-          "image": ""
+          "image": hotsprings
         },
         {
           "name": "Kullu",
-          "image": "https://example.com/river_rafting.jpg"
+          "image": kullu
         },
         {
           "name":"Kasol",
-          "image":""
+          "image":kasol
         },
         {
           "name":"Parvathy Valley",
-          "image":""
+          "image":parvathy
         },
         {
           "name":"Beas River",
-          "image":""
+          "image":beas
         }
       ]
     }
@@ -67,12 +96,12 @@ export const manaliData  = [
         {
           "name": "The Ridge",
           "description": "Explore the famous Ridge, a large open space in the heart of Shimla offering panoramic views of the surrounding mountains.",
-          "image": "https://example.com/the_ridge.jpg"
+          "image": theridge
         },
         {
           "name": "Jakhu Temple",
           "description": "Visit the Jakhu Temple dedicated to Lord Hanuman. Enjoy the scenic trek to the temple and marvel at the giant Hanuman statue.",
-          "image": "https://example.com/jakhu_temple.jpg"
+          "image": jakhu
         }
       ]
     },
@@ -82,12 +111,12 @@ export const manaliData  = [
         {
           "name": "Mall Road",
           "description": "Take a leisurely stroll on the famous Mall Road. Shop for souvenirs, enjoy local snacks, and experience the vibrant atmosphere.",
-          "image": "https://example.com/mall_road.jpg"
+          "image": mallroadShimla
         },
         {
           "name": "Shimla State Museum",
           "description": "Discover the rich history of Shimla at the State Museum. Explore exhibits showcasing Himachal Pradesh's art, culture, and heritage.",
-          "image": "https://example.com/shimla_museum.jpg"
+          "image": musem
         }
       ]
     }
@@ -100,17 +129,17 @@ export const manaliData  = [
         {
           "name": "Red Fort",
           "description": "Explore the iconic Red Fort, a UNESCO World Heritage Site. Discover the history and architecture of this Mughal marvel.",
-          "image": "https://example.com/red_fort.jpg"
+          "image": redfort
         },
         {
           "name": "India Gate",
           "description": "Visit the India Gate, a war memorial dedicated to Indian soldiers. Enjoy a leisurely walk around the monument and admire the view.",
-          "image": "https://example.com/india_gate.jpg"
+          "image": indiagate
         },
         {
           "name": "Chandni Chowk",
           "description": "Experience the vibrant chaos of Chandni Chowk, one of the oldest and busiest markets in Delhi. Shop for spices, fabrics, jewelry, and street food.",
-          "image": "https://example.com/chandni_chowk.jpg"
+          "image": chandinichowk
         }
       ]
     },
@@ -120,17 +149,17 @@ export const manaliData  = [
         {
           "name": "Qutub Minar",
           "description": "Marvel at the Qutub Minar, the tallest brick minaret in the world. Explore the surrounding archaeological complex and its history.",
-          "image": "https://example.com/qutub_minar.jpg"
+          "image": qutub
         },
         {
           "name": "Lotus Temple",
           "description": "Visit the Lotus Temple, known for its stunning lotus-shaped architecture and serene atmosphere. Experience peace and tranquility.",
-          "image": "https://example.com/lotus_temple.jpg"
+          "image": lotus
         },
         {
           "name": "Dilli Haat",
           "description": "Explore Dilli Haat, a vibrant open-air market showcasing handicrafts, traditional artifacts, and cuisine from different states of India.",
-          "image": "https://example.com/dilli_haat.jpg"
+          "image": dillihaat
         }
       ]
     }
@@ -143,12 +172,12 @@ export const manaliData  = [
         {
           "name": "Shri Krishna Janmabhoomi",
           "description": "Visit the Shri Krishna Janmabhoomi temple, believed to be the birthplace of Lord Krishna. Experience spirituality and history.",
-          "image": "https://example.com/krishna_janmabhoomi.jpg"
+          "image": janma
         },
         {
           "name": "Dwarkadheesh Temple",
           "description": "Explore the Dwarkadheesh Temple dedicated to Lord Krishna. Marvel at the intricate architecture and participate in prayers.",
-          "image": "https://example.com/dwarkadheesh_temple.jpg"
+          "image": Dwarkadesh
         }
       ]
     },
@@ -158,12 +187,12 @@ export const manaliData  = [
         {
           "name": "Vrindavan",
           "description": "Visit the holy town of Vrindavan, associated with the childhood of Lord Krishna. Explore temples, ashrams, and serene ghats.",
-          "image": "https://example.com/vrindavan.jpg"
+          "image": vrinda
         },
         {
           "name": "Prem Mandir",
           "description": "Experience the grandeur of Prem Mandir, a beautiful temple dedicated to Radha-Krishna. Admire the intricate marble carvings.",
-          "image": "https://example.com/prem_mandir.jpg"
+          "image": premmandir
         }
       ]
     }
@@ -176,12 +205,12 @@ export const vrindavanData = [
         {
           "name": "Banke Bihari Temple",
           "description": "Visit the famous Banke Bihari Temple, dedicated to Lord Krishna. Attend the mesmerizing morning and evening aarti.",
-          "image": "https://example.com/banke_bihari_temple.jpg"
+          "image": banke
         },
         {
           "name": "Prem Mandir",
           "description": "Explore the stunning Prem Mandir, known for its intricate marble carvings depicting the life of Lord Krishna.",
-          "image": "https://example.com/prem_mandir.jpg"
+          "image": premmandir
         }
       ]
     },
@@ -191,12 +220,12 @@ export const vrindavanData = [
         {
           "name": "ISKCON Temple",
           "description": "Visit the ISKCON Temple, dedicated to Lord Krishna and Radha. Attend the divine kirtans and participate in the spiritual atmosphere.",
-          "image": "https://example.com/iskcon_temple.jpg"
+          "image": iskcon
         },
         {
           "name": "Seva Kunj",
           "description": "Spend serene moments at Seva Kunj, a garden where Radha and Krishna are believed to have performed their divine pastimes.",
-          "image": "https://example.com/seva_kunj.jpg"
+          "image": seva
         }
       ]
     }
