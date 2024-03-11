@@ -7,7 +7,7 @@ function Tours() {
     <div>
      <PopularTours tours={bachelorsPackages} type={"Bachelors"}/>
      <PopularTours tours={familyPackages} type={"Family"}/>
-     <PopularTours tours={honeyMoon} type={"Honey Moon Couple"}/>
+     <PopularTours tours={honeyMoon} type={"HoneyMoon"}/>
     </div>
   )
 }

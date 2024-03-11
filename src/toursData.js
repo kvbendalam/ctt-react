@@ -10,7 +10,7 @@ const bachelorsPackages = [
       duration: "P12D",
       durationText: "3D & 2N",
       price: "From 5,999/-",
-      title: "Manali, Himachal Pradesh",
+      title: "Manali",
       // location: "Manali",
       link: "#"
     },

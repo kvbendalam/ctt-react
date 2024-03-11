@@ -7,6 +7,7 @@ import Footer from "./Footer";
 import Header from "./Header";
 import Tours from "./Tours";
 import AboutUsPage from "./AboutUsPage";
+import Package from "./Package";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
           <Route path="/destination/:place" element={<DestinationDetails />} />
           <Route exact path="/tours" element={<Tours />} />
           <Route exact path="/about" element={<AboutUsPage />} />
+          <Route exact path="/package/:place/:type" element={<Package/>} />
         </Routes>
       </HashRouter>
       <Footer/>

@@ -14,7 +14,7 @@ function Home() {
      <p className="section-subtitle">Featured Tours</p>
      <PopularTours tours={bachelorsPackages} type={"Bachelors"}/>
      <PopularTours tours={familyPackages} type={"Family"}/>
-     <PopularTours tours={honeyMoon} type={"Honey Moon Couple"}/>
+     <PopularTours tours={honeyMoon} type={"HoneyMoon"}/>
      <About/>
      <Videos/>
     </div>
