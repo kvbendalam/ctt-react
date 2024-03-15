@@ -22,10 +22,10 @@ function DestinationDetails() {
   return (
     <div>
       <div>
-        <h2 style={{margin:"20px"}}>Things to Do in {place} for {data.length} Days</h2>
+        <h2 style={{margin:"20px"}}>Things to Do in {place} </h2>
         {data.map((dayActivities, index) => (
           <div key={index} style={{margin:"10px"}}>
-            <h3 style={{margin:"20px"}}>{dayActivities.day}</h3>
+            {/* <h3 style={{margin:"20px"}}>{dayActivities.day}</h3> */}
             <Activities activities={dayActivities.activities}/>
           </div>
         ))}

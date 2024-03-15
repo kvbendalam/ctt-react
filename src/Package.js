@@ -1,6 +1,6 @@
 import React from 'react';
 import { useParams } from 'react-router-dom';
-import { manalibachelorsPackage, manlifamilyPackage, manalicouplesPackage } from './ItenaryData';
+import {agraPackageB,agraPackageF, agraPackageH, delhishimlamanaliBachelorsPacakge, delhishimlamanaliFamilyPacakge,delhishimlamanaliHoneyMoonPacakge, manalibachelorsPackage, manlifamilyPackage, manalicouplesPackage, manalishimlabachelorPackage, manalishimlaFamilyPackage, manalishimlaHoneymoonPackage } from './ItenaryData';
 import './Package.css'; // Import the CSS file for styling
 
 function Package() {
@@ -14,7 +14,26 @@ function Package() {
     data = manlifamilyPackage;
   } else if (place === 'Manali' && type === 'HoneyMoon') {
     data = manalicouplesPackage;
+  }else if(place === 'Manali-Shimla' && type === 'Bachelors'){
+    data = manalishimlabachelorPackage;
+  }else if(place === 'Manali-Shimla' && type === 'Family'){
+    data = manalishimlaFamilyPackage;
+  }else if(place === 'Manali-Shimla' && type === 'HoneyMoon'){
+    data = manalishimlaHoneymoonPackage;
+  }else if(place === 'Delhi-Shimla-Manali' && type === 'Bachelors'){
+    data = delhishimlamanaliBachelorsPacakge;
+  }else if(place === 'Delhi-Shimla-Manali' && type === 'Family'){
+    data = delhishimlamanaliFamilyPacakge
+  }else if(place === 'Delhi-Shimla-Manali' && type === 'HoneyMoon'){
+    data = delhishimlamanaliHoneyMoonPacakge
+  }else if(place === 'Agra-Mathura-Vrindavan-Shimla-Manali' && type === 'Bachelors' ){
+    data = agraPackageB;
+  }else if(place === 'Agra-Mathura-Vrindavan-Shimla-Manali' && type === 'Family' ){
+    data = agraPackageF;
+  }else if(place === 'Agra-Mathura-Vrindavan-Shimla-Manali' && type ===  'HoneyMoon' ){
+    data = agraPackageH;
   }
+
 
   if (!data) {
     return <div>No data found for this package</div>;
