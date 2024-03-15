@@ -59,7 +59,6 @@ export const manalicouplesPackage = {
         "Pick Up & Drop Services From Manali Volvo Stop To Hotel & Return",
         "Round trip Ac Volvo Semi sleeper Tickets ( Delhi/Chandigarh )",
         "Individual Cab According To The Itinerary (1 to 3 person alto Car, 4 person Sedan car , 5 to 9 person sumo and above 10 Tempo traveller)",
-        "INR 1500 Future Travel Discount Voucher (One can Use INR 500 in each Future Booking)",
         "All Applicable Taxes",
         "GST Included"
       ],
@@ -133,7 +132,6 @@ export const manlifamilyPackage = {
         "Pick Up & Drop Services From Manali Volvo Stop To Hotel & Return",
         "Round trip Ac Volvo Semi sleeper Tickets ( Delhi/Chandigarh )",
         "Individual Cab According To The Itinerary (1 to 3 person alto Car, 4 person Sedan car , 5 to 9 person sumo and above 10 Tempo traveller)",
-        "INR 1500 Future Travel Discount Voucher (One can Use INR 500 in each Future Booking)",
         "All Applicable Taxes",
         "GST Included"
       ],
@@ -205,7 +203,6 @@ export const manalibachelorsPackage = {
         "Pick Up & Drop Services From Manali Volvo Stop To Hotel & Return",
         "Round trip Ac Volvo Semi sleeper Tickets ( Delhi/Chandigarh )",
         "Individual Cab According To The Itinerary (1 to 3 person alto Car, 4 person Sedan car , 5 to 9 person sumo and above 10 Tempo traveller)",
-        "INR 1500 Future Travel Discount Voucher (One can Use INR 500 in each Future Booking)",
         "All Applicable Taxes",
         "GST Included"
       ],
@@ -292,7 +289,6 @@ export const manalishimlabachelorPackage = {
     "Pick Up & Drop Services From Manali Volvo Stop To Hotel & Return",
     "Round trip Ac Volvo Semi sleeper Tickets ( Delhi/Chandigarh )",
     "Individual Cab According To The Itinerary (1 to 3 person alto Car, 4 person Sedan car , 5 to 9 person sumo and above 10 Tempo traveller)",
-    "INR 1500 Future Travel Discount Voucher (One can Use INR 500 in each Future Booking)",
     "All Applicable Taxes",
     "GST Included"
   ],
@@ -379,7 +375,6 @@ export const manalishimlaFamilyPackage = {
     "Pick Up & Drop Services From Manali Volvo Stop To Hotel & Return",
     "Round trip Ac Volvo Semi sleeper Tickets ( Delhi/Chandigarh )",
     "Individual Cab According To The Itinerary (1 to 3 person alto Car, 4 person Sedan car , 5 to 9 person sumo and above 10 Tempo traveller)",
-    "INR 1500 Future Travel Discount Voucher (One can Use INR 500 in each Future Booking)",
     "All Applicable Taxes",
     "GST Included"
   ],
@@ -466,7 +461,6 @@ export const manalishimlaHoneymoonPackage = {
     "Pick Up & Drop Services From Manali Volvo Stop To Hotel & Return",
     "Round trip Ac Volvo Semi sleeper Tickets ( Delhi/Chandigarh )",
     "Individual Cab According To The Itinerary (1 to 3 person alto Car, 4 person Sedan car , 5 to 9 person sumo and above 10 Tempo traveller)",
-    "INR 1500 Future Travel Discount Voucher (One can Use INR 500 in each Future Booking)",
     "All Applicable Taxes",
     "GST Included"
   ],
@@ -560,7 +554,6 @@ export const delhishimlamanaliBachelorsPacakge = {
     "Pick Up & Drop Services From Manali Volvo Stop To Hotel & Return",
     "Round trip Ac Volvo Semi sleeper Tickets ( Delhi/Chandigarh )",
     "Individual Cab According To The Itinerary (1 to 3 person alto Car, 4 person Sedan car , 5 to 9 person sumo and above 10 Tempo traveller)",
-    "INR 1500 Future Travel Discount Voucher (One can Use INR 500 in each Future Booking)",
     "All Applicable Taxes",
     "GST Included"
   ],
@@ -654,7 +647,6 @@ export const delhishimlamanaliFamilyPacakge ={
     "Pick Up & Drop Services From Manali Volvo Stop To Hotel & Return",
     "Round trip Ac Volvo Semi sleeper Tickets ( Delhi/Chandigarh )",
     "Individual Cab According To The Itinerary (1 to 3 person alto Car, 4 person Sedan car , 5 to 9 person sumo and above 10 Tempo traveller)",
-    "INR 1500 Future Travel Discount Voucher (One can Use INR 500 in each Future Booking)",
     "All Applicable Taxes",
     "GST Included"
   ],
@@ -748,7 +740,6 @@ export const delhishimlamanaliHoneyMoonPacakge ={
     "Pick Up & Drop Services From Manali Volvo Stop To Hotel & Return",
     "Round trip Ac Volvo Semi sleeper Tickets ( Delhi/Chandigarh )",
     "Individual Cab According To The Itinerary (1 to 3 person alto Car, 4 person Sedan car , 5 to 9 person sumo and above 10 Tempo traveller)",
-    "INR 1500 Future Travel Discount Voucher (One can Use INR 500 in each Future Booking)",
     "All Applicable Taxes",
     "GST Included"
   ],
@@ -849,7 +840,6 @@ export const agraPackageB ={
     "Pick Up & Drop Services From Manali Volvo Stop To Hotel & Return",
     "Round trip Ac Volvo Semi sleeper Tickets ( Delhi/Chandigarh )",
     "Individual Cab According To The Itinerary (1 to 3 person alto Car, 4 person Sedan car , 5 to 9 person sumo and above 10 Tempo traveller)",
-    "INR 1500 Future Travel Discount Voucher (One can Use INR 500 in each Future Booking)",
     "All Applicable Taxes",
     "GST Included"
   ],
@@ -949,7 +939,6 @@ export const agraPackageF = {
     "Pick Up & Drop Services From Manali Volvo Stop To Hotel & Return",
     "Round trip Ac Volvo Semi sleeper Tickets ( Delhi/Chandigarh )",
     "Individual Cab According To The Itinerary (1 to 3 person alto Car, 4 person Sedan car , 5 to 9 person sumo and above 10 Tempo traveller)",
-    "INR 1500 Future Travel Discount Voucher (One can Use INR 500 in each Future Booking)",
     "All Applicable Taxes",
     "GST Included"
   ],
@@ -1050,7 +1039,6 @@ export const agraPackageH = {
     "Pick Up & Drop Services From Manali Volvo Stop To Hotel & Return",
     "Round trip Ac Volvo Semi sleeper Tickets ( Delhi/Chandigarh )",
     "Individual Cab According To The Itinerary (1 to 3 person alto Car, 4 person Sedan car , 5 to 9 person sumo and above 10 Tempo traveller)",
-    "INR 1500 Future Travel Discount Voucher (One can Use INR 500 in each Future Booking)",
     "All Applicable Taxes",
     "GST Included"
   ],
