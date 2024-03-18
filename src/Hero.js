@@ -6,7 +6,7 @@ import Shape3 from './assets/images/shape-3.png';
 import hero from './assets/images/hero-banner.png';
 
 function Hero() {
-  const mobileNumber = "+91 7989515104"; // Your mobile number
+  const mobileNumber = "+91 7989515104"; 
 
   return (
     <div>
